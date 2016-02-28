@@ -12,12 +12,12 @@
 
 .jumbotron {
   background-image:url(./images/background2.jpg);
-  background-attachment: scroll;
+  /*background-attachment: scroll;
   background-position: 50% 50%;
   height: 600px;
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: transparent;
+  background-color: transparent;*/
 }
 
 .jumbotron .container {
