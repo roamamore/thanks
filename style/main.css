@@ -11,10 +11,13 @@
 }
 
 .jumbotron {
-  background-image:url(/images/background2.jpg);
-  height: 600px;
+  background-image:url(/images/background.jpg);
+  background-attachment: scroll;
+  background-position: 50% 50%;
+  /*height: 600px;*/
   background-repeat: no-repeat;
   background-size: cover;
+  background-color: transparent;
 }
 
 .jumbotron .container {
