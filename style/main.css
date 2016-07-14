@@ -19,11 +19,11 @@
 }
 
 .jumbotron {
-  background-image:url(./images/background2.jpg);
-  background-attachment: scroll;
+  background-image:url(./images/background2.jpg) no-repeat center center fixed;
+  /*background-attachment: scroll;
   background-position: 50% 50%;
-  /*height: 700px;*/
-  background-repeat: no-repeat;
+  /*height: 700px;
+  background-repeat: no-repeat;*/
   background-size: 100% auto;
   background-color: transparent;
 }*/
